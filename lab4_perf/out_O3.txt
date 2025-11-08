@@ -1,0 +1,2 @@
+Elapsed (inside program): 3.030 s
+Checksum: 2147309824.223144
