@@ -1,10 +1,6 @@
 # SP-Lab4
 Lab 4. Performance Measurement and Analysis. (+Assembler and low-level optimisation)
-Тарас Панченко
-•
-20 жовт.
-25 балів
-Дата здачі: 16:00
+
 Для обраної (скомпільованої) програми: 
 
 1) побудувати FlameGraph виконання: 
